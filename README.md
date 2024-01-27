@@ -44,3 +44,8 @@
     <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
 </p>
 
+<hr>
+
+<p align="center"> 
+    <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/65a9abef0c54812283016c10?variant=dark" alt="roadmap.sh"/></a>
+</p>
